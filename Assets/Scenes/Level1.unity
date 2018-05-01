@@ -1229,7 +1229,7 @@ GameObject:
   - component: {fileID: 762827167}
   - component: {fileID: 762827171}
   m_Layer: 0
-  m_Name: Item
+  m_Name: Test Helm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1313,7 +1313,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   radius: 3
-  item: {fileID: 11400000, guid: d7d08f5a2e7259c4c9e503f5cd19e7e5, type: 2}
+  item: {fileID: 11400000, guid: fb8ecfbb1b5312643ac904219e31101a, type: 2}
 --- !u!1001 &797976937
 Prefab:
   m_ObjectHideFlags: 0

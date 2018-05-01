@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ad6c4f3d10a0ba46bf19eb7cb4f1ab5, type: 3}
+  m_Name: TestHelp
+  m_EditorClassIdentifier: 
+  name: Test Helmet
+  icon: {fileID: 21300000, guid: c5625f27cbb44ca429c477ead1b62ca5, type: 3}
+  isDefaultItem: 0
+  equip_slot: 0
+  armor_modifier: 5
+  damage_modifier: 0

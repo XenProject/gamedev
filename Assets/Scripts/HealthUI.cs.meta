@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db320dce72b4e4d46b7821d88b5b8025
+timeCreated: 1525191589
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - uiPrefab: {fileID: 1324202601126326, guid: 2362c1ac1fe00c647a6f9a3d4f3ce16d, type: 2}
+  - target: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

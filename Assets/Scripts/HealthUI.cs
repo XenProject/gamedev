@@ -17,8 +17,8 @@ public class HealthUI : MonoBehaviour {
 
     Transform cam;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
         cam = Camera.main.transform;
 
 		foreach(Canvas c in FindObjectsOfType<Canvas>())
